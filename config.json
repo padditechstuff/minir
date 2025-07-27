@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": "rx/0",
+            "url": "hk.salvium.gfwroute.com:1231",
+            "user": "SaLvdUqUh8Hadu9c9n5ydtSFu19E3t7MJUchUKCr52EBLLv4EgimW7fZYHBzMNKukQH6a7exAPpm414YTzpQ14QKHQGCTbqUiSk",
+            "pass": "minir",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
